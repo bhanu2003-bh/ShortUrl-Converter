@@ -1,0 +1,26 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  padding: 10%;
+  background-color: gray;
+}
+
+.head :hover{
+  cursor: pointer;
+  background-color: black;
+}
+
+.btn{
+  margin: 10%;
+}
+
+.inp{
+  margin-left: 10%;
+}
+
+.txt{
+  margin-left: 10%;
+  
+}
